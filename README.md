@@ -92,7 +92,7 @@ Before installing the plugin, you must setup your app to receive push notificati
 The plugin can be installed with the following command
 
 ```shell
-npm install https://github.com/diegoaxity/pushiomanager-cordova-plugin
+npm install https://github.com/Axitymx/pushiomanager-cordova-plugin
 ```
 
 then perform sync using with the following command
