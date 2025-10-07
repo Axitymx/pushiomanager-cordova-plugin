@@ -1,7 +1,16 @@
 {
-  "name": "cordova-plugin-pushiomanager",
+  "name": "@axity/cordova-plugin-pushiomanager",
   "version": "6.56.3",
   "description": "Cordova Plugin for Responsys SDK",
+  "author": "Oracle Corp.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axitymx/pushiomanager-cordova-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Axitymx/pushiomanager-cordova-plugin.git/issues"
+  },
+  "homepage": "https://github.com/Axitymx/pushiomanager-cordova-plugin#README.md",
   "cordova": {
     "id": "cordova-plugin-pushiomanager",
     "platforms": [
@@ -9,6 +18,14 @@
       "ios"
     ]
   },
+  "files": [
+    "plugin.xml",
+    "www/",
+    "src/",
+    "README.md",
+    "LICENSE.txt",
+    "THIRD_PARTY_LICENSES.txt"
+  ],
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
