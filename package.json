@@ -1,6 +1,6 @@
 {
   "name": "@axity/cordova-plugin-pushiomanager",
-  "version": "6.56.3",
+  "version": "1.0.0",
   "description": "Cordova Plugin for Responsys SDK",
   "author": "Oracle Corp.",
   "repository": {
