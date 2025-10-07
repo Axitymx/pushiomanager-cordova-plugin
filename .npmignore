@@ -1,0 +1,14 @@
+# Desarrollo
+*.ts
+tsconfig.json
+rollup.config.mjs
+
+
+# Build
+node_modules/
+.github/
+.vscode/
+
+# Archivos temporales
+*.log
+.DS_Store

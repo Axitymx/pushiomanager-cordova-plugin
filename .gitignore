@@ -2,3 +2,7 @@
 Example/node_modules/
 .idea/
 !ios/frameworks
+.npmrc
+.npmrc.*
+node_modules
+dist-release/
